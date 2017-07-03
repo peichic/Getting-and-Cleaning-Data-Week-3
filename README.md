@@ -5,3 +5,6 @@ Put together testing data sets and then put together trainsing data sets. And th
 Extract only the measurements on the mean and standard deviation for each measurement and put the result in dataset "meanstdData".
 Appropriately labels the data set with descriptive variable names and to make each variable name unique by adding axis indicator, X, Y, or Z.
 Finally, createa a second, independent tidy data set named "newData" with the average of each variable for each activity and each subject.
+# Code book
+subject: representing number of the volunteer
+activity: activity labels
